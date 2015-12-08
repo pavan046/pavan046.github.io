@@ -1,0 +1,86 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.1.22)  24 NOV 2015 15:08
+entering extended mode
+ %&-line parsing enabled.
+**teaching-statement.tex
+(./teaching-statement.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, loaded.
+(/usr/share/texmf-texlive/tex/latex/base/letter.cls
+Document Class: letter 1999/04/29 v1.2z Standard LaTeX document class
+(/usr/share/texmf-texlive/tex/latex/base/size12.clo
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\longindentation=\dimen102
+\indentedwidth=\dimen103
+\labelcount=\count79
+)
+(/usr/share/texmf-texlive/tex/latex/psnfss/newcent.sty
+Package: newcent 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+(./teaching-statement.aux)
+\openout1 = `teaching-statement.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Try loading font information for OT1+pnc on input line 35.
+ (/usr/share/texmf-texlive/tex/latex/psnfss/ot1pnc.fd
+File: ot1pnc.fd 2001/06/04 font definitions for OT1/pnc.
+)
+LaTeX Font Info:    Font shape `OT1/pnc/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/pnc/b/n' tried instead on input line 46.
+Missing character: There is no â in font pncr7t!
+Missing character: There is no € in font pncr7t!
+Missing character: There is no ˜ in font pncr7t!
+Missing character: There is no â in font pncr7t!
+Missing character: There is no € in font pncr7t!
+Missing character: There is no ™ in font pncr7t!
+
+Overfull \hbox (10.09253pt too wide) in paragraph at lines 57--59
+\OT1/pnc/m/n/12 sciously dis-cuss and demon-strate the value of in-ter-dis-ci-p
+linary en-gage-ment with the students-
+ []
+
+LaTeX Font Info:    Font shape `OT1/pnc/bx/n' in size <12> not available
+(Font)              Font shape `OT1/pnc/b/n' tried instead on input line 61.
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    Try loading font information for OMS+pnc on input line 67.
+
+(/usr/share/texmf-texlive/tex/latex/psnfss/omspnc.fd
+File: omspnc.fd 
+)
+LaTeX Font Info:    Font shape `OMS/pnc/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 67.
+ [2] [3]
+(./teaching-statement.aux) ) 
+Here is how much of TeX's memory you used:
+ 211 strings out of 495061
+ 2611 string characters out of 1182621
+ 50108 words of memory out of 3000000
+ 3455 multiletter control sequences out of 15000+50000
+ 9979 words of font info for 25 fonts, out of 3000000 for 9000
+ 28 hyphenation exceptions out of 8191
+ 22i,4n,19p,1219b,161s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/share/texmf-texlive/fonts/enc/dvips/base/8r.e
+nc}</usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/sh
+are/texmf-texlive/fonts/type1/urw/ncntrsbk/uncb8a.pfb></usr/share/texmf-texlive
+/fonts/type1/urw/ncntrsbk/uncr8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/
+ncntrsbk/uncri8a.pfb>
+Output written on teaching-statement.pdf (3 pages, 59714 bytes).
+PDF statistics:
+ 29 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

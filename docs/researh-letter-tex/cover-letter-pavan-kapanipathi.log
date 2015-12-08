@@ -1,0 +1,67 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.1.22)  5 NOV 2015 10:29
+entering extended mode
+ %&-line parsing enabled.
+**cover-letter-pavan-kapanipathi.tex
+(./cover-letter-pavan-kapanipathi.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, loaded.
+(/usr/share/texmf-texlive/tex/latex/base/letter.cls
+Document Class: letter 1999/04/29 v1.2z Standard LaTeX document class
+(/usr/share/texmf-texlive/tex/latex/base/size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\longindentation=\dimen102
+\indentedwidth=\dimen103
+\labelcount=\count79
+)
+(/usr/share/texmf-texlive/tex/latex/psnfss/newcent.sty
+Package: newcent 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+(./cover-letter-pavan-kapanipathi.aux)
+\openout1 = `cover-letter-pavan-kapanipathi.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Try loading font information for OT1+pnc on input line 35.
+
+(/usr/share/texmf-texlive/tex/latex/psnfss/ot1pnc.fd
+File: ot1pnc.fd 2001/06/04 font definitions for OT1/pnc.
+)
+LaTeX Font Info:    Font shape `OT1/pnc/bx/n' in size <12> not available
+(Font)              Font shape `OT1/pnc/b/n' tried instead on input line 50.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 84.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 84.
+ [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./cover-letter-pavan-kapa
+nipathi.aux) ) 
+Here is how much of TeX's memory you used:
+ 187 strings out of 495061
+ 2361 string characters out of 1182621
+ 49108 words of memory out of 3000000
+ 3438 multiletter control sequences out of 15000+50000
+ 6708 words of font info for 19 fonts, out of 3000000 for 9000
+ 28 hyphenation exceptions out of 8191
+ 23i,6n,19p,839b,187s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/share/texmf-texlive/fonts/enc/dvips/base/8r.enc}</usr/share
+/texmf-texlive/fonts/type1/urw/ncntrsbk/uncb8a.pfb></usr/share/texmf-texlive/fo
+nts/type1/urw/ncntrsbk/uncr8a.pfb>
+Output written on cover-letter-pavan-kapanipathi.pdf (1 page, 31135 bytes).
+PDF statistics:
+ 15 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

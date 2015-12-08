@@ -1,0 +1,85 @@
+% resume.tex
+%
+
+\documentclass[letterpaper,10pt]{article}
+
+%-----------------------------------------------------------
+\usepackage[empty]{fullpage}
+\usepackage{color}
+\usepackage{multicol}
+\usepackage{hyperref}
+\definecolor{mygrey}{gray}{0.80}
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Adjust margins to 0.5in on all sides
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1.0in}
+\addtolength{\topmargin}{-0.5in}
+\addtolength{\textheight}{1.0in}
+
+%-----------------------------------------------------------
+%Custom commands
+\newcommand{\resitem}[1]{\item #1 \vspace{-2pt}}
+\newcommand{\resheading}[1]{{\colorbox{mygrey}{\begin{minipage}{\textwidth}{\textbf{#1 \vphantom{p\^{E}}}}\end{minipage}}}}
+\newcommand{\ressubheading}[4]{
+\begin{tabular*}{7.0in}{l@{\extracolsep{\fill}}r}
+		\textbf{#1} & #2 \\
+		\textit{#3} & \textit{#4} \\
+\end{tabular*}\vspace{-6pt}}
+%-----------------------------------------------------------
+
+
+\begin{document}
+
+\begin{tabular*}{7.5in}{l@{\extracolsep{\fill}}r}
+\textbf{\large Pavan Kapanipathi}  & +1 713 435 9982 (phone)\\
+ Kno.e.sis Center, Wright State University &  pavan[at]knoesis.org \\
+ 3640 Colonel Glenn Highway, Dayton, OH 45435 &  \url{http://knoesis.org/researchers/pavan}\\
+\end{tabular*}
+\\
+
+\vspace{0.1in}
+\resheading{Research Interests}\vspace{0.05in}
+Personalization, Recommendation, Knowledge Graphs, Information Extraction, Social Data Analysis, Semantic Web, User Modeling.\vspace{0.05in}
+
+\resheading{Education}\vspace{0.05in}
+\textbf{Phd, Computer Science}, Wright State University, (2012 - Present)\linebreak
+\textbf{MS, Computer Science}, Wright State University, (2009 - 2012)\linebreak
+\textbf{BE, Computer Science}, Visvesvaraya Technological University, (2003 - 2007)\vspace{0.05in}
+
+
+\resheading{Experience}\vspace{0.05in}
+\textbf{Samsung Research America}, Research Intern, (May 14 - December 14)\linebreak
+\textbf{IBM TJ Watson Research Center}, Research Intern, (May 13 - August 13)\linebreak
+\textbf{Digital Enterprise Research Institute}, Research Intern, (April 11 - August 11)\linebreak
+\textbf{Accenture}, Programmer, (July 07 - March 09)\linebreak
+\textbf{Robert Bosch}, Intern, (February 07 - June 07)
+\vspace{0.05in}
+
+\resheading{Research Projects}\vspace{0.05in}
+\textbf{User-specific information extraction from social data: } User modelling comprise acquiring necessary information of users for personalization and recommendation systems. I have focused on extracting \textit{hierarchical interests of users}, \textit{home location of a user}, and \textit{users' activities of interest} from users' tweets. These techniques are unsupervised and harness knowledge graphs for semantic processing of Twitter data. They utilize and are compared against information retrieval, machine learning, and probabilistic modelling approaches. \linebreak
+\textbf{Social data filtering and recommendation: } Twitter faces the big challenge of information overload. In my work, I have addressed this challenge both in terms of improving the precision and recall of filtering topical Twitter data. This includes both filtering and recommendation tasks that utilizes knowledge graphs to determine the relevancy of tweets.\vspace{0.05in}
+
+\resheading{Selected Publications, Patents, and Grant Proposals}\vspace{0.05in}
+\textbf{P. Kapanipathi}, R.Krishnamurthy, A. Sheth, K. Thirunarayan. Knowledge Enabled Approach to Predict the Location of Twitter Users. ESWC2015. \textbf{(23\%)}\linebreak
+\textbf{P. Kapanipathi}, P. Jain, C. Venkataramani, A. Sheth. User Interests Identification on Twitter Using a Hierarchical Knowledge Base. ESWC2014 \textbf{(23\%)}\linebreak
+\textbf{P. Kapanipathi}, P. Jain, C. Venkataramani, A. Sheth. Hierarchical Interest Graph from Twitter. WWW2014 companion. \linebreak
+F. Orlandi, \textbf{P. Kapanipathi}, A. Passant, A. Sheth. Characterising concepts of interest leveraging Linked Data and the Social Web. WI2013.\linebreak
+\textbf{P. Kapanipathi}, F. Orlandi, A. Sheth, A. Passant. Personalized Filtering of the Twitter Stream. SPIM@ISWC2011.\linebreak 
+\textbf{P. Kapanipathi}, J. Anaya, A. Sheth, B. Slatkin, A. Passant. Privacy-Aware and Scalable Content Dissemination in Distributed Social Network. ISWC2011. \textbf{(22\%)}\linebreak
+P. Mendes, A. Passant, \textbf{P. Kapanipathi}, A. Sheth. Linked Open Social Signals. WI2010. \textbf{(16.6\%)}\linebreak
+\textbf{Patent:} Joakim Soderberg, Edwin A. Heredia, \textbf{Pavan Kapanipathi}, Glenn Algie,  Alan Messer. Semantic Enrichment of Trajectory Data. (Pending)\linebreak
+\textbf{Grant Proposal: }  Contributed to three award winning proposals from NSF and NIH. (1) Trending: Social media analysis to monitor cannabis and synthetic cannabinoid use (NIH: \$1.5M, 2014); (2) Hazards SEES: Social and Physical Sensing Enabled Decision Support for Disaster Management and Response (NSF: \$2.0M, 2015); (3) Market Driven Innovations and Scaling up of Twitris (NSF: \$200K, 2015) \vspace{0.05in}
+
+\resheading{Skills, Achievements, and Service}\vspace{0.05in}
+\textbf{Programming:} Java, Python, R, SQL, PIG, SPARQL.\linebreak
+\textbf{Tools, \& Softwares:} Database (MySQL), Graphs (Virtuoso, Jena, Gephi), Machine Learning (Weka, scikit-learn), Natural Language Processing (Stanford CoreNLP), Version Management (SVN, GIT), Big Data (Hadoop, Storm).\linebreak
+\textbf{Open Source Contributions:} Twarql, SMOB.\linebreak 
+\textbf{Awards: }Triplification Challenge 2010, ISWC2011 Travel Grant. \linebreak
+\textbf{Invited Talks:} EMC invited talk, 2015. Graduate Advisory Board (Wright State University). Frontiers of Cloud Computing and Big Data Workshop, 2014 (IBM TJ Watson Research Center). \linebreak
+\textbf{PC Member: } ESWC2016, ICWS2015, HT2015, ESWC2015, ESWC2014, DERIVE2012.\vspace{0.05in}
+
+\end{document}
